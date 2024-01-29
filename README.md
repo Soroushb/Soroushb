@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="./scnew.png"  width="300" height="200">
+ <source media="(prefers-color-scheme: dark)" srcset="./scnew.png" >
  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1JaB9ij_Dn3DEkXjjiK0YbOoq1NJa3Nqv/view?usp=sharing">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
