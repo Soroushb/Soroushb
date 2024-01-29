@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <picture>
- <source srcset="./scnew.png"  width="300" height="200" >
+ <source srcset="./scnew.png"  width="300" height="300" >
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
