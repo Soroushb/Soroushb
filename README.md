@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1JaB9ij_Dn3DEkXjjiK0YbOoq1NJa3Nqv/view?usp=sharing">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1JaB9ij_Dn3DEkXjjiK0YbOoq1NJa3Nqv/view?usp=sharing">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 <!--
 **Soroushb/soroushb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
