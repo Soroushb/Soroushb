@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-<picture>
+<pic class>
+ <picture>
  <source srcset="./scnew.png"  width="300" height="300" >
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+</pic>
+
+<style>
+pic{
+    border: solid,
+    border-color: red
+}
+</style>
+
 
 
 <!--
