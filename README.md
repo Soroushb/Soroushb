@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soroush</h1>
  <picture align="center">
- <source  align="center" srcset="./scnew.png"  width="300" >
- <img  align="center" alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img  align="center" alt="YOUR-ALT-TEXT" src="./scnew.png">
 </picture>
 <h3 align="center">A passionate Full-stack Developer in Toronto, Canada</h3>
 <img align="right" alt="code" width="250" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/>
