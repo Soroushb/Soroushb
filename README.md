@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 <pic class>
+
+</pic>
+
+<h1 align="center">Hi 👋, I'm Soroush</h1>
  <picture>
  <source srcset="./scnew.png"  width="300" height="300" >
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
-</pic>
-<h1 align="center">Hi 👋, I'm Soroush</h1>
 <h3 align="center">A passionate Full-stack Developer in Toronto, Canada</h3>
 
 - 🔭 I’m currently working at **Keyvrix Inc.**
