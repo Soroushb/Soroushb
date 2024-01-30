@@ -1,11 +1,5 @@
-### Hi there 👋
-
-<pic class>
-
-</pic>
-
 <h1 align="center">Hi 👋, I'm Soroush</h1>
- <picture>
+ <picture align="center">
  <source srcset="./scnew.png"  width="300" height="300" >
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
