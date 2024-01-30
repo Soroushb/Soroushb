@@ -3,7 +3,7 @@
  <img align="center" alt="YOUR-ALT-TEXT" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </picture>
 <h3 align="center">A passionate Full-stack Developer in Toronto, Canada</h3>
-<img align="right" alt="code" width="300" src="./scnew.png"/>
+<!-- <img align="right" alt="code" width="300" src="./scnew.png"/> -->
 
 - 🔭 I’m currently working at **Keyvrix Inc.**
 
