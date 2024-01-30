@@ -4,6 +4,7 @@
  <img  align="center" alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 <h3 align="center">A passionate Full-stack Developer in Toronto, Canada</h3>
+<img align="right" alt="code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codeyourcareer.com%2Fweb-development&psig=AOvVaw39GhjgOjxkVUJUa_itiJLL&ust=1706659908405000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiqkt7pg4QDFQAAAAAdAAAAABAp"/>
 
 - 🔭 I’m currently working at **Keyvrix Inc.**
 
